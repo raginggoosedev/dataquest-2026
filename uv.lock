@@ -299,12 +299,6 @@ dependencies = [
     { name = "polars" },
     { name = "pyarrow" },
     { name = "scikit-learn" },
-    { name = "polars" },
-    { name = "pyarrow" },
-    { name = "scikit-learn" },
-    { name = "polars" },
-    { name = "pyarrow" },
-    { name = "scikit-learn" },
 ]
 
 [package.metadata]
