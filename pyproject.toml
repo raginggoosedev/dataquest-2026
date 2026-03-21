@@ -9,9 +9,6 @@ dependencies = [
     "numpy>=2.4.3",
     "pandas>=3.0.1",
     "polars>=1.39.3",
-    "numpy>=2.4.3",
-    "pandas>=3.0.1",
-    "polars>=1.39.3",
     "pyarrow>=23.0.1",
     "scikit-learn>=1.8.0",
 ]
